@@ -1,8 +1,6 @@
+# VideoAudioProject
 
 VideoAudio was made as project exmaple.
-
-Name of the project:
-VideoAudio
 
 Description:
 VideoAudio is a project that focuses on combining different types of models to create a single user profile.
@@ -51,5 +49,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-# VideoAudioProject
-# VideoAudioProject
+
